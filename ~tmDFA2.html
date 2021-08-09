@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Roch Guerin"
   avatar           : "profile.png"
-  bio              : "Harold B. and Adelaide G. Welge Professor"
+  bio              : "Your biography for the left-hand sidebar"
   location         : "St. Louis, MO, U.S.A."
-  employer         : # "Washington University in St. Louis"
+  employer         : "https://wustl.edu/"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=54w2_AcAAAAJ"
   email            : "mailto:guerin@wustl.edu"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/roch-guerin-bb521/"
+  linkedin         :
   orcid            : "https://orcid.org/0000-0002-8928-9984"
   pinterest        :
   soundcloud       :
@@ -184,9 +184,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  old-project:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -234,15 +231,6 @@ defaults:
   - scope:
       path: ""
       type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _old-project
-  - scope:
-      path: ""
-      type: old-project
     values:
       layout: single
       author_profile: true
