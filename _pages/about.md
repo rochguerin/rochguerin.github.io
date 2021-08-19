@@ -12,7 +12,7 @@ redirect_from:
 
 | Postal address | Other contact info |
 |--------|-------|
-| Dept. Comp. Sci. & Eng. | |
+| Dept. Comp. Sci. & Eng. | [Washington University Academic Calendar](https://engineering.wustl.edu/current-students/student-services/Pages/Academic-Calendar.aspx) |
 | Washington University in St. Louis | phone: (314) 935-6165 |   
 | McKelvey Hall, MSC 1045-213-1010J | email: LastName@wustl.edu |
 | 1 Brookings Drive | Office: [McKelvey Hall](https://engineering.wustl.edu/about/facilities/tour-our-buildings.html#McKelveyTour) 1010D |
