@@ -1,0 +1,49 @@
+
+<HTML>
+
+<HEAD>
+
+<meta name="GENERATOR" content="Microsoft Internet Assistant for PowerPoint 97">
+ <TITLE>Sample Triggering Policies</TITLE> 
+</HEAD>
+
+<BODY     >
+
+ <H1>Sample Triggering Policies</H1> 
+ <P><UL>
+<LI><H2>Threshold based (relative change)
+</H2>
+<UL>
+<LI>Updates are generated when difference between new and old values exceeds given percentage of old value
+<UL>
+<LI>Avoids unnecessary updates when little or no change, but responsive to large changes
+</UL><LI>Potential for wide range of bandwidth values
+<UL>
+<LI>Impact on number of equal cost paths
+</UL></UL></UL><UL>
+<LI><H2>Class based (absolute change)
+</H2>
+<UL>
+<LI>Link capacity is split into classes and updates are triggered when class boundaries are crossed
+<UL>
+<LI>Class size allows tuning of trade-off between accuracy and LSA load
+<LI>Hysteresis (or timer) mechanism needed to avoid oscillations
+</UL><LI>Choice of class values can substantially affect path selection
+<UL>
+<LI>Quantized values maximize likelihood of multiple equal cost paths
+<LI>Large values can yield non-pruning policies (all links are always feasible)</UL></UL></UL></P>
+<P></P> 
+<P>
+<TABLE>
+  <TD HEIGHT=100 WIDTH=100> <A HREF="tsld012.htm">Previous slide</A> </TD>
+  <TD HEIGHT=100 WIDTH=100> <A HREF="tsld014.htm">Next slide</A> </TD>
+  <TD HEIGHT=100 WIDTH=150> <A HREF="tsld001.htm">Back to first slide</A> </TD>
+  <TD HEIGHT=100 WIDTH=150> <A HREF="sld013.htm">View graphic version</A> </TD>
+</TABLE>
+<BR>
+</P>
+
+
+
+</Body>
+</HTML>

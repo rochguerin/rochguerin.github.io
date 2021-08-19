@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Roch Guerin"
   avatar           : "profile.png"
-  bio              : "Harold B. and Adelaide G. Welge Professor"
+  bio              : "Harold B. and Adelaide G. Welge Professor, Washington University in St. Louis"
   location         : "St. Louis, MO, U.S.A."
   employer         : # "Washington University in St. Louis"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "https://en.wikipedia.org/wiki/Roch_Gu%C3%A9rin"
+  wikipedia        : "Roch_Gu%C3%A9rin"
 
 
 # Reading Files
@@ -175,7 +175,19 @@ kramdown:
 
 # Collections
 collections:
+  background:
+    output: true
+    permalink: /:collection/:path/
+  news:
+    output: true
+    permalink: /:collection/:path/
   teaching:
+    output: true
+    permalink: /:collection/:path/
+  conferences:
+    output: true
+    permalink: /:collection/:path/
+  journals:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -225,6 +237,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _news
+  - scope:
+      path: ""
+      type: news
     values:
       layout: single
       author_profile: true

@@ -1,0 +1,51 @@
+
+<HTML>
+
+<HEAD>
+
+<meta name="GENERATOR" content="Microsoft Internet Assistant for PowerPoint 97">
+ <TITLE>Assuming We “Know” The Distribution</TITLE> 
+</HEAD>
+
+<BODY     >
+
+ <H1>Assuming We “Know” The Distribution</H1> 
+ <P><UL>
+<LI><H2>How do we incorporate our knowledge of the available bandwidth distribution?
+</H2>
+</UL><UL>
+<LI><H2>Safety S(k) of link k
+</H2>
+<UL>
+<LI>Probability that the currently available bandwidth is more than the requested amount b 
+<UL>
+<LI>S(k)=((1+?)* b0,k -b)/(2*?*b0,k)  for b?[b0,k(1- ?); b0,k(1+ ?)]
+<LI>S(k)=0 if b&#062 (1+?)*b0,k ;   S(k)=1 if b&#060 (1-?)*b0,k 
+</UL></UL></UL><UL>
+<LI><H2>Safety of a path
+</H2>
+<UL>
+<LI>Product of safeties of all the links in the path
+<UL>
+<LI>(independence assumption for lack of a better model)
+</UL></UL></UL><UL>
+<LI><H2>Incorporate safety in the routing algorithm
+</H2>
+<UL>
+<LI>Shortest-safest (safest path(s) - ties broken by hop count (shortest))
+<LI>Safest-shortest (shortest path(s) - ties broken by safety (safest))</UL></UL></P>
+<P></P> 
+<P>
+<TABLE>
+  <TD HEIGHT=100 WIDTH=100> <A HREF="tsld044.htm">Previous slide</A> </TD>
+  <TD HEIGHT=100 WIDTH=100> <A HREF="tsld046.htm">Next slide</A> </TD>
+  <TD HEIGHT=100 WIDTH=150> <A HREF="tsld001.htm">Back to first slide</A> </TD>
+  <TD HEIGHT=100 WIDTH=150> <A HREF="sld045.htm">View graphic version</A> </TD>
+</TABLE>
+<BR>
+</P>
+
+
+
+</Body>
+</HTML>

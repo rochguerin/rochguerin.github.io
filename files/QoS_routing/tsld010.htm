@@ -1,0 +1,47 @@
+
+<HTML>
+
+<HEAD>
+
+<meta name="GENERATOR" content="Microsoft Internet Assistant for PowerPoint 97">
+ <TITLE>Path Computation/Selection</TITLE> 
+</HEAD>
+
+<BODY     >
+
+ <H1>Path Computation/Selection</H1> 
+ <P><UL>
+<LI><H2>Paths are computed using a widest-shortest path heuristic
+</H2>
+<UL>
+<LI>Minimum hop path with maximum bandwidth
+</UL></UL><UL>
+<LI><H2>Paths are computed
+</H2>
+<UL>
+<LI>On-demand, i.e., anew for each request
+<LI>Periodically and stored in a QoS Route Table
+<UL>
+<LI>Pre-computation based on modified Bellman-Ford alg.
+<LI>QoS route table structure
+<UL>
+<LI>One row per destination (route table entry)
+<LI>One column for each hop count with greater bandwidth
+</UL><LI>Path selection searches row for first column with sufficient bandwidth
+<UL>
+<LI>Randomization when multiple choices are available</UL></UL></UL></UL></P>
+<P></P> 
+<P>
+<TABLE>
+  <TD HEIGHT=100 WIDTH=100> <A HREF="tsld009.htm">Previous slide</A> </TD>
+  <TD HEIGHT=100 WIDTH=100> <A HREF="tsld011.htm">Next slide</A> </TD>
+  <TD HEIGHT=100 WIDTH=150> <A HREF="tsld001.htm">Back to first slide</A> </TD>
+  <TD HEIGHT=100 WIDTH=150> <A HREF="sld010.htm">View graphic version</A> </TD>
+</TABLE>
+<BR>
+</P>
+
+
+
+</Body>
+</HTML>

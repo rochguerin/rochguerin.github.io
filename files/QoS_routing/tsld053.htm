@@ -1,0 +1,54 @@
+
+<HTML>
+
+<HEAD>
+
+<meta name="GENERATOR" content="Microsoft Internet Assistant for PowerPoint 97">
+ <TITLE>Sample Path Selection Probabilities</TITLE> 
+</HEAD>
+
+<BODY     >
+
+ <H1>Sample Path Selection Probabilities</H1> 
+ <P><UL>
+<H2>b        - request size   (bmax - max request size, if known)
+</H2>
+</UL><UL>
+<H2>hmin      - length of  the shortest (apparently) feasible path
+</H2>
+</UL><UL>
+<H2>B(p)   - bandwidth of  the path
+</H2>
+</UL><UL>
+<H2>?        - penalty parameter for moving to longer paths
+</H2>
+</UL><UL>
+<H2>	
+</H2>
+</UL><UL>
+<LI><H2>Discount factor C=1-?*b/bmax for each  extra hop
+</H2>
+</UL><UL>
+<LI><H2>For a path of hop length h   D(p) = C|h - hmin|
+</H2>
+</UL><UL>
+<LI><H2>Then the weight assigned to path p is W(p) = B(p)*D(p)
+</H2>
+</UL><UL>
+<LI><H2>Pick a path randomly with probability weighted by W(p)</H2>
+</UL></P>
+<P></P> 
+<P>
+<TABLE>
+  <TD HEIGHT=100 WIDTH=100> <A HREF="tsld052.htm">Previous slide</A> </TD>
+  <TD HEIGHT=100 WIDTH=100> <A HREF="tsld054.htm">Next slide</A> </TD>
+  <TD HEIGHT=100 WIDTH=150> <A HREF="tsld001.htm">Back to first slide</A> </TD>
+  <TD HEIGHT=100 WIDTH=150> <A HREF="sld053.htm">View graphic version</A> </TD>
+</TABLE>
+<BR>
+</P>
+
+
+
+</Body>
+</HTML>

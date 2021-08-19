@@ -1,5 +1,11 @@
 # main links links
-main:
+main:   
+  - title: "Background"
+    url: /background/
+        
+  - title: "News"
+    url: /news/
+        
   - title: "Publications"
     url: /publications/
 
@@ -12,14 +18,14 @@ main:
   - title: "Current Projects"
     url: /portfolio/
     
-  - title: "Old Projects"
+  - title: "Past Projects"
     url: /old-project/
-        
+ 
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
     
 #  - title: "Guide"
 #   url: /markdown/
