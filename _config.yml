@@ -87,7 +87,7 @@ author:
   employer         : # "Washington University in St. Louis"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=54w2_AcAAAAJ"
-  email            : "mailto:guerin@wustl.edu"
+  email            : "guerin@wustl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/roch-guerin-bb521/"
+  linkedin         : "roch-guerin-bb521"
   orcid            : "https://orcid.org/0000-0002-8928-9984"
   pinterest        :
   soundcloud       :
