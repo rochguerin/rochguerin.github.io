@@ -29,7 +29,7 @@ ACM Transactions on Economics and Computation (TEAC), Vol. 8, Issue 2, Article 8
 Proc. IEEE CLOUD Conference, September 2021 (held virtually).
 * A. Chakrabarti, R. Guerin, C. Lu, and J. Liu [*"Real-Time Edge Classification: Optimal Offloading under Token Bucket Constraints."*](https://arxiv.org/abs/2010.13737) 
 Proc. [2021 ACM/IEEE Symposium on Edge Computing (SEC)](http://acm-ieee-sec.org/2021/), San Jose, CA, December 2021.
-* C. Li, Sisu Xi, Chenyang Lu, Roch Guerin, Christopher D. Gill, [*"Virtualization-Aware Traffic Control for Soft Real-Time Network Traffic on Xen."*]().  
+* C. Li, Sisu Xi, Chenyang Lu, Roch Guerin, Christopher D. Gill, [*"Virtualization-Aware Traffic Control for Soft Real-Time Network Traffic on Xen."*](https://drive.google.com/file/d/1efvN7_PBGWXfZwkGb-APXw-T8GUe2nme/view?usp=sharing).  
 Accepted for publication in the IEEE/ACM Transactions on Networking.
 
 ### Software
