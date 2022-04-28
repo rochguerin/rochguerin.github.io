@@ -12,13 +12,16 @@ but with an accuracy limited by the camera's processing ability. Because classif
 an edge server equipped with greater compute resources capable of more accurate classification.  Such offloading decisions, however, have a (network and compute) cost, and therefore rate-controlled by way of a token bucket.
 The goal is then to devise a simple algorithm for the camera to decide which images to offload so as to maximize classification accuracy under the constraints imposed by the token bucket.
 
-### Contributors  
+### Current Contributors  
 
-* [Ayan Chakrabarti](https://projects.ayanc.org/) (WashU)
 * [Roch Guerin](https://www.cse.wustl.edu/~guerin/) (WashU)
 * [Chenyang Lu](https://www.cse.wustl.edu/~lu/) (WashU)
 * [Jiaming Qiu](https://github.com/qiujiaming315/JiamingQiu-personal-webpage) (WashU)
 * [Ruiqi Wang](https://www.linkedin.com/in/rickywrq/) (WashU)
+
+### Former Contributors
+
+* [Ayan Chakrabarti](https://projects.ayanc.org/) (formerly at WashU, but now at Google)
 
 ### Related Publications
 

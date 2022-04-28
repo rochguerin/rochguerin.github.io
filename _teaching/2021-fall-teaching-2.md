@@ -1,10 +1,10 @@
 ---
-title: "Fall 2021 teaching"
+title: "Fall 2022 teaching"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021-fall-teaching-2
 venue: "Washington University in St. Louis, Dept. Computer Science and Engineering"
-date: 2021-08-29
+date: 2022-04-28
 location: "Saint Louis, U.S.A."
 ---
 
@@ -12,7 +12,7 @@ location: "Saint Louis, U.S.A."
 
 **Course Wiki**: <https://classes.engineering.wustl.edu/cse538-online>
 
-**Time & Location**:  Monday and Wednesday, 4:00pm-5:20pm CDT in Cupples I, 207.
+**Time & Location**:  Monday and Wednesday, 4:00pm-5:20pm CDT in TBD.
 
 ## Brief course description
 
