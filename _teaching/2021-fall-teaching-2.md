@@ -12,7 +12,7 @@ location: "Saint Louis, U.S.A."
 
 **Course Wiki**: <https://classes.engineering.wustl.edu/cse538-online>
 
-**Time & Location**:  Monday and Wednesday, 4:00pm-5:20pm CDT in TBD.
+**Time & Location**:  Monday and Wednesday, 4:00pm-5:20pm CDT in Jubel Hall, 121.
 
 ## Brief course description
 
