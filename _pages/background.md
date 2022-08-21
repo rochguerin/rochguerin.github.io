@@ -7,7 +7,7 @@ author_profile: true
 
 I grew up in a suburb of [Paris](https://www.paris.fr/), France, called [Saint Cloud](https://www.saintcloud.fr/) and attended the [Cours Hattemer](https://www.hattemer.fr/) in Paris
 before going to [Franklin (École Saint Louis de Gonzague)](http://www.franklinparis.fr/), also in Paris.  While in high school, I took a gap year and attended
-[Aloysius Kolleg](ihttps://en.wikipedia.org/wiki/Aloisiuskolleg) in [Bonn, Bad Godesberg](https://en.wikipedia.org/wiki/Bad_Godesberg) in Germany.  
+[Aloysius Kolleg](https://en.wikipedia.org/wiki/Aloisiuskolleg) in [Bonn, Bad Godesberg](https://en.wikipedia.org/wiki/Bad_Godesberg) in Germany.  
 
 I did my undergraduate studies at [ENST, Paris](https://www.telecom-paris.fr/) (now called TELECOM Paris), and actually spent my last year in [Toulouse](https://en.wikipedia.org/wiki/Toulouse) in the South-West of France
 in the Satellite Communications Systems department (don't ask me why, but it was fun). I did my undergraduate thesis on "Jamming Resistant Multiple Access Methods for Satellite Systems." (sorry no link, this was written at a time where paper was the only game in town...)
