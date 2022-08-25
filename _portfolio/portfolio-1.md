@@ -18,7 +18,7 @@ reshaping of traffic flows can be of benefit in reducing bandwidth requirements.
 * [Jiaming Qiu](https://github.com/qiujiaming315/JiamingQiu-personal-webpage) (WashU)
 * [Henry Sariowan](https://www.linkedin.com/in/sariowan/) (Google)
 
-### Past Contributors
+### Former Contributors
 * [Jiayi Song](https://www.linkedin.com/in/jiayi-song-1163a0137/) (graduated Feb. 2022, now at Byte Dance)
 
 ### Publications
