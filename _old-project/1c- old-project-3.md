@@ -1,6 +1,6 @@
 ---
 title: "Evaluation of the robustness (and usefulness) of some QoS services"
-excerpt: "Supported in part by NSF ANI-9906855 & a grant from Nortel Networks"
+excerpt: "Supported in part by NSF grant ANI-9906855 & a grant from Nortel Networks"
 collection: old-project
 ---
 

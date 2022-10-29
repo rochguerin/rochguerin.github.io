@@ -1,6 +1,6 @@
 ---
 title: "Building flexible ad-hoc and wireless networks"
-excerpt: "Supported in part by NSF ANI-9902943 & ITR-0085930"
+excerpt: "Supported in part by NSF grants ANI-9902943 & ITR-0085930"
 collection: old-project
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Control Plane Aggregation"
-excerpt: "Supported in part by NSF ITR-0085930"
+excerpt: "Supported in part by NSF grant ITR-0085930"
 collection: old-project
 ---
 

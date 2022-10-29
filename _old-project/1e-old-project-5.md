@@ -1,6 +1,6 @@
 ---
 title: "Traffic engineering in IP networks"
-excerpt: "Supported in part by NSF ANI-9902943 & ITR-0085930 as well as by a gift from Sprint ATL"
+excerpt: "Supported in part by NSF grants ANI-9902943 & ITR-0085930 as well as by a gift from Sprint ATL"
 collection: old-project
 ---
 
