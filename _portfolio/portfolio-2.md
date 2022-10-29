@@ -27,7 +27,7 @@ The goal is then to devise a simple algorithm for the camera to decide which ima
 
 * A. Chakrabarti, R. Guerin, C. Lu, and J. Liu, [*"Real-Time Edge Classification: Optimal Offloading under Token Bucket Constraints."*](https://arxiv.org/abs/2010.13737) 
 Proc. [2021 ACM/IEEE Symposium on Edge Computing (SEC)](http://acm-ieee-sec.org/2021/), San Jose, CA, December 2021.
-* J. Qiu, R. Wang, A. Chakrabarti, R. Guerin, and C. Lu, [*"Adaptive Edge Offloading for Image Classification Under Rate Limit."*](https://doi.org/10.1109/TCAD.2022.319753) IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2022. The paper was presented at the ACM International Conference on Embedded Software (EMSOFT), October 2022, Hybrid+Shanghai+Phoenix.'
+* J. Qiu, R. Wang, A. Chakrabarti, R. Guerin, and C. Lu, [*"Adaptive Edge Offloading for Image Classification Under Rate Limit."*](https://doi.org/10.1109/TCAD.2022.3197533) IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Vol. 41, No. 11, November 2022. The paper was presented at the ACM International Conference on Embedded Software (EMSOFT), October 2022, Hybrid+Shanghai+Phoenix.'
     - [Extended arXiv version](https://arxiv.org/abs/2208.00485)
     - [Code](https://github.com/qiujiaming315/edgeml-dqn)
 
