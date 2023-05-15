@@ -1,6 +1,6 @@
 ---
 title: "Application versus network level performance"
-excerpt: "Supported in part by NSF ANI-9906855 & ITR-0085930"
+excerpt: "Supported in part by NSF grants ANI-9906855 & ITR-0085930"
 collection: old-project
 ---
 

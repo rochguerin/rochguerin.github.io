@@ -1,6 +1,6 @@
 ---
 title: "On the Economic Viability of Network Architectures. "
-excerpt: "Funded by NSF grants CNS-0721610"
+excerpt: "Supported by NSF grant CNS-0721610"
 collection: old-project
 ---
 

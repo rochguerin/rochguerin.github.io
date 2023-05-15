@@ -13,7 +13,7 @@ I did my undergraduate studies at [ENST, Paris](https://www.telecom-paris.fr/) (
 in the Satellite Communications Systems department (don't ask me why, but it was fun). I did my undergraduate thesis on "Jamming Resistant Multiple Access Methods for Satellite Systems." (sorry no link, this was written at a time where paper was the only game in town...)
 
 After finishing my undergraduate studies, I attended [Caltech](http://www.caltech.edu/), where I received both my MS (1984) and Ph.D. (1986) from the [Electrical Engineering department](https://ee.caltech.edu/).
-My Ph.D. was supervised by [Prof. Edward Posner](https://ipnpr.jpl.nasa.gov/progress_report/42-114/114dedication.pdf) and my thesis was titled ["Queueing and Traffic in Cellular Radio"](http://www.cse.wustl.edu/~guerin/publications/Guerin_R_Caltech_thesis_1986.pdf).
+My Ph.D. was supervised by [Prof. Edward Posner](https://ipnpr.jpl.nasa.gov/progress_report/42-114/114dedication.pdf) and my thesis was titled ["Queueing and Traffic in Cellular Radio"](https://thesis.library.caltech.edu/1022/).
 As a point of maybe vain pride, the [two journal papers](#thesis-papers) that came out of my thesis have been continuously cited each year since published (according
 to [Google Scholar](https://scholar.google.com/citations?hl=en&user=54w2_AcAAAAJ) and at least until 2021). 
 

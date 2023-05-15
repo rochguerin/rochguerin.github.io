@@ -1,6 +1,6 @@
 ---
 title: "Data plane aggregation"
-excerpt: "Supported by NSF ITR-0085930"
+excerpt: "Supported by NSF grant ITR-0085930"
 collection: old-project
 ---
 

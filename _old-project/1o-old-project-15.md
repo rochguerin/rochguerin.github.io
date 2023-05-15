@@ -1,6 +1,6 @@
 ---
 title: "Provisioning, Enforcing, and Pricing Temporal Service Differentiation in Virtualized Networked Environments"
-excerpt: "Supported by NSF CNS 1514254"
+excerpt: "Supported by NSF grant CNS 1514254"
 collection: portfolio
 ---
 
