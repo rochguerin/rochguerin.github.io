@@ -26,7 +26,7 @@ The goal is then to devise a simple algorithm for the camera to decide which ima
 ### Related Publications
 
 * R. Wang, H. Liu, J. Qiu, M. Xu, R. Guerin, and C. Lu, [*"Progressive Neural Compression for Adaptive Image Offloading Under Timing Constraints."*](https://doi.ieeecomputersociety.org/10.1109/RTSS59052.2023.00020)
-2023 IEEE Real-Time Systems Symposium (RTSS), Taipei, Taiwan, December 2023.
+2023 IEEE Real-Time Systems Symposium (RTSS), Taipei, Taiwan, December 2023. The paper received the **Best Student Paper Award** at the conference.
 	 - [arXiv version](https://doi.org/10.48550/arXiv.2310.05306)
 	 - [Code](https://github.com/rickywrq/Progressive-Neural-Compression)
 * J. Qiu, R. Wang, A. Chakrabarti, R. Guerin, and C. Lu, [*"Adaptive Edge Offloading for Image Classification Under Rate Limit."*](https://doi.org/10.1109/TCAD.2022.3197533) IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Vol. 41, No. 11, November 2022. The paper was presented at the ACM International Conference on Embedded Software (EMSOFT), October 2022, Hybrid+Shanghai+Phoenix.'
