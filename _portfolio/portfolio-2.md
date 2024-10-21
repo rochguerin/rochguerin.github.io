@@ -25,8 +25,8 @@ The goal is then to devise a simple algorithm for the camera to decide which ima
 
 ### Related Publications
 
-* J. Qiu, R. Wang, B. Hu, R. Guerin, and C. Lu. [*"Optimizing Edge Offloading Decisions for Object Detection”."*]() Proc. [2024 ACM/IEEE Symposium on Edge Computing (SEC 2024)](https://acm-ieee-sec.org/2024/), Rome, Italy, December 2024. 
-  	 - [Code](https://github.com/qiujiaming315/edgeml-object-detection)
+* J. Qiu, R. Wang, B. Hu, R. Guerin, and C. Lu. [*"Optimizing Edge Offloading Decisions for Object Detection."*]() [2024 ACM/IEEE Symposium on Edge Computing (SEC 2024)](https://acm-ieee-sec.org/2024/), Rome, Italy, December 2024.
+	 - [Code](https://github.com/qiujiaming315/edgeml-object-detection)
 * R. Wang, H. Liu, J. Qiu, M. Xu, R. Guerin, and C. Lu, [*"Progressive Neural Compression for Adaptive Image Offloading Under Timing Constraints."*](https://doi.ieeecomputersociety.org/10.1109/RTSS59052.2023.00020)
 2023 IEEE Real-Time Systems Symposium (RTSS), Taipei, Taiwan, December 2023. The paper received the **Best Student Paper Award** at the conference.
 	 - [arXiv version](https://doi.org/10.48550/arXiv.2310.05306)
@@ -35,7 +35,7 @@ The goal is then to devise a simple algorithm for the camera to decide which ima
     - [Extended arXiv version](https://arxiv.org/abs/2208.00485)
     - [Code](https://github.com/qiujiaming315/edgeml-dqn)
 * A. Chakrabarti, R. Guerin, C. Lu, and J. Liu, [*"Real-Time Edge Classification: Optimal Offloading under Token Bucket Constraints."*](https://arxiv.org/abs/2010.13737) 
-Proc. [2021 ACM/IEEE Symposium on Edge Computing (SEC)](http://acm-ieee-sec.org/2021/), San Jose, CA, December 2021.
+[2021 ACM/IEEE Symposium on Edge Computing (SEC)](http://acm-ieee-sec.org/2021/), San Jose, CA, December 2021.
 
 -----------------------------
 
