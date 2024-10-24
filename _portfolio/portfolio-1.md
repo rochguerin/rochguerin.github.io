@@ -36,5 +36,8 @@ on a range of different configurations. (See paper 3. below for details).
 Proc. [ITC'33](https://itc33.org/), Avignon, France, August 2021.
 2. J. Song, J. Qiu, R. Guerin, and H. Sariowan, ["*On the Benefits of Traffic `Reprofiling’ The Single Hop Case.*"](https://arxiv.org/abs/2104.02222)
 [IEEE/ACM Transactions in Networking](https://sites.google.com/view/ieee-acm-ton/home), 2024
-3. J. Qiu, J. Song, R. Guerin, and H. Sariowan, ["*On the Benefits of Traffic `Reprofiling’ The Multiple Hops Case - Part I.*"](https://arxiv.org/abs/2404.09087)
+    - [Extended arXiv version](https://arxiv.org/pdf/2104.02222)
+3. J. Qiu, J. Song, R. Guerin, and H. Sariowan, ["*On the Benefits of Traffic `Reprofiling’ The Multiple Hops Case - Part I.*"](https://doi.org/10.1109/TNET.2024.3392030)
 [IEEE/ACM Transactions in Networking](https://sites.google.com/view/ieee-acm-ton/home), 2024
+    - [Extended arXiv version](https://arxiv.org/pdf/2404.09087)
+    - [Code](https://github.com/qiujiaming315/traffic-reprofiling)
