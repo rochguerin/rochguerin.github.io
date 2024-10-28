@@ -34,7 +34,7 @@ on a range of different configurations. (See paper 3. below for details).
 
 1. J. Song, R. Guerin, and H. Sariowan, ["*Minimizing network bandwidth under latency constraints: The single node case.*"](https://arxiv.org/abs/2104.02222) 
 Proc. [ITC'33](https://itc33.org/), Avignon, France, August 2021.
-2. J. Song, J. Qiu, R. Guerin, and H. Sariowan, ["*On the Benefits of Traffic `Reprofiling’ The Single Hop Case.*"](https://arxiv.org/abs/2104.02222)
+2. J. Song, J. Qiu, R. Guerin, and H. Sariowan, ["*On the Benefits of Traffic `Reprofiling’ The Single Hop Case.*"](https://doi.org/10.1109/TNET.2024.3356863)
 [IEEE/ACM Transactions in Networking](https://sites.google.com/view/ieee-acm-ton/home), 2024
     - [Extended arXiv version](https://arxiv.org/pdf/2104.02222)
 3. J. Qiu, J. Song, R. Guerin, and H. Sariowan, ["*On the Benefits of Traffic `Reprofiling’ The Multiple Hops Case - Part I.*"](https://doi.org/10.1109/TNET.2024.3392030)
