@@ -1,18 +1,18 @@
 ---
-title: "Fall 2024 teaching"
+title: "Fall 2025 teaching"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021-fall-teaching-2
 venue: "Washington University in St. Louis, Dept. Computer Science and Engineering"
-date: 2024-10-20
+date: 2025-06-16
 location: "Saint Louis, U.S.A."
 ---
 
-**CSE 538T: Modeling and Performance Evaluation of Computer Systems**
+**CSE 5308: Modeling and Performance Evaluation of Computer Systems**
 
 **Course Wiki**: <https://classes.engineering.wustl.edu/cse538-online>
 
-**Time & Location**:  Monday and Wednesday, 4:00pm-5:20pm CDT in Jubel Hall 121.
+**Time & Location**:  Monday and Wednesday, 4:00pm-5:20pm CDT in TBD.
 
 ## Brief course description
 
