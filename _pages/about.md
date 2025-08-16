@@ -16,7 +16,7 @@ redirect_from:
 | Washington University in St. Louis | phone: (314) 935-6165 |   
 | McKelvey Hall, MSC 1045-213-1010J | email: LastName@wustl.edu |
 | 1 Brookings Drive | Office: [McKelvey Hall](https://engineering.wustl.edu/about/facilities/tour-our-buildings.html#McKelveyTour) 1010D |
-| Saint Louis, MO, USA 63130 | **Office hours**: TBA for Fall 2023 <!--Tue./Thur. 8:00-8:45am & 3:00-3:45pm (contact me for a zoom meeting)--> |    
+| Saint Louis, MO, USA 63130 | **Office hours**: See my [course wiki](https://classes.engineering.wustl.edu/cse538-online/) for Fall 2025 hours<!--Tue./Thur. 8:00-8:45am & 3:00-3:45pm (contact me for a zoom meeting)--> |    
 
 Welcome to this webpage.  In lieu of introduction, I am the Harold B. and Adelaide G. Welge Professor in the [department of Computer Science and Engineering](http://cse.wustl.edu/) at [Washington University in St. Louis](http://www.wustl.edu/) (WashU),
 in addition to currently serving as the chair of the department.
