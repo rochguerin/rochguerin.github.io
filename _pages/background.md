@@ -10,12 +10,12 @@ before going to [Franklin (École Saint Louis de Gonzague)](http://www.franklinp
 [Aloysius Kolleg](https://en.wikipedia.org/wiki/Aloisiuskolleg) in [Bonn, Bad Godesberg](https://en.wikipedia.org/wiki/Bad_Godesberg) in Germany.  
 
 I did my undergraduate studies at [ENST, Paris](https://www.telecom-paris.fr/) (now called TELECOM Paris), and actually spent my last year in [Toulouse](https://en.wikipedia.org/wiki/Toulouse) in the South-West of France
-in the Satellite Communications Systems department (don't ask me why, but it was fun). I did my undergraduate thesis on "Jamming Resistant Multiple Access Methods for Satellite Systems." (sorry no link, this was written at a time where paper was the only game in town...)
+in the Satellite Communications Systems department (don't ask me why, but it was fun). I did my undergraduate thesis on "Jamming Resistant Multiple Access Methods for Satellite Systems." (sorry no link, this was written at a time when paper was the only game in town...)
 
 After finishing my undergraduate studies, I attended [Caltech](http://www.caltech.edu/), where I received both my MS (1984) and Ph.D. (1986) from the [Electrical Engineering department](https://ee.caltech.edu/).
 My Ph.D. was supervised by [Prof. Edward Posner](https://ipnpr.jpl.nasa.gov/progress_report/42-114/114dedication.pdf) and my thesis was titled ["Queueing and Traffic in Cellular Radio"](https://thesis.library.caltech.edu/1022/).
 As a point of maybe vain pride, the [two journal papers](#thesis-papers) that came out of my thesis have been continuously cited each year since published (according
-to [Google Scholar](https://scholar.google.com/citations?hl=en&user=54w2_AcAAAAJ) and at least until 2021). 
+to [Google Scholar](https://scholar.google.com/citations?hl=en&user=54w2_AcAAAAJ) and at least until 2023). 
 
 After graduating from Caltech, I joined the [IBM T.J. Watson Research Center](https://www.research.ibm.com/labs/watson/), where I worked on many aspects related to quality of service
 in broadband networks for over 12 years. When I left IBM in 1998 I was the manager of the Network Control and Services department.
